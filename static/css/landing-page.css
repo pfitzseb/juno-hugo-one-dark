@@ -44,6 +44,11 @@ h6 {
     margin: 0.3em;
 }
 
+.btn {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
 .logo {
     max-height: 8em;
     margin-left:auto;
@@ -84,7 +89,7 @@ h6 {
 }
 
 .intro-message {
-    color: #333;
+    color: #dbdbdb;
     position: relative;
     margin-top: 1em;
     margin-bottom: 0.5em;
@@ -155,13 +160,13 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #22303f;
 }
 
 .content-section-b {
     padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
+    border-top: 1px solid #444;
+    border-bottom: 1px solid #444;
 }
 
 .section-heading {
@@ -223,7 +228,7 @@ h6 {
 
 footer {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #1a1a1a;
 }
 
 p.copyright {
